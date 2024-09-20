@@ -1,0 +1,182 @@
+
+[
+    {
+        "id": "Crop-01",
+        "titulo": "Crop con estampado",
+        "imagen": "./img/crops/img1.jpg",
+        "categorias": {
+            "nombre": "Crops",
+            "id": "Crops"
+        },
+        "precio": "35.000",
+        "precioMos": 35000
+    },
+    {
+        "id": "Crop-02",
+        "titulo": "Top bajo hanky",
+        "imagen": "./img/crops/crop2.jpg",
+        "categorias": {
+            "nombre": "Crops",
+            "id": "Crops"
+        },
+        "precio": "105.000",
+        "precioMos": 105000
+    },
+    
+    {
+        "id": "Overside-01",
+        "titulo": "Overside Masculino",
+        "imagen": "./img/Oversides/img2.jpg",
+        "categorias": {
+            "nombre": "Overside",
+            "id": "oversides"
+        },
+        "precio": "100.000",
+        "precioMos": 100000
+    },
+    {
+        "id": "Overside-02",
+        "titulo": "Overside Masculino",
+        "imagen": "./img/Oversides/img3.jpg",
+        "categorias": {
+            "nombre": "Overside",
+            "id": "oversides"
+        },
+        "precio": "105.000",
+        "precioMos": 105000
+    },
+    {
+        "id": "Overside-03",
+        "titulo": "Overside Masculino",
+        "imagen": "./img/Oversides/img4.jpg",
+        "categorias": {
+            "nombre": "Overside Masculino",
+            "id": "oversides"
+        },
+        "precio": "105.000",
+        "precioMos": 105000
+    },
+    {
+        "id": "Overside-04",
+        "titulo": "Overside Masculino",
+        "imagen": "./img/Oversides/img5.jpg",
+        "categorias": {
+            "nombre": "Overside",
+            "id": "oversides"
+        },
+        "precio": "90.000",
+        "precioMos": 90000
+    },
+    {
+        "id": "Overside-05",
+        "titulo": "Overside Masculino",
+        "imagen": "./img/Oversides/img6.jpg",
+        "categorias": {
+            "nombre": "Overside",
+            "id": "oversides"
+        },
+        "precio": "105.000",
+        "precioMos": 105000
+    },
+    {
+        "id": "Overside-06",
+        "titulo": "Overside Masculino",
+        "imagen": "./img/Oversides/img7.jpg",
+        "categorias": {
+            "nombre": "Overside",
+            "id": "oversides"
+        },
+        "precio": "98.000",
+        "precioMos": 98000
+    },
+    
+    {
+        "id": "Sudadera-01",
+        "titulo": "Sudadera con capucha",
+        "imagen": "./img/sudaderas/sudadera1.jpg",
+        "categorias": {
+            "nombre": "Sudadera",
+            "id": "sudaderas"
+        },
+        "precio": "120.000",
+        "precioMos": 120000
+    },
+    {
+        "id": "Sudadera-02",
+        "titulo": "Sudadera unicolor",
+        "imagen": "./img/sudaderas/sudadera2.jpg",
+        "categorias": {
+            "nombre": "Sudadera",
+            "id": "sudaderas"
+        },
+        "precio": "130.000",
+        "precioMos": 130000
+    },
+    {
+        "id": "Sudadera-03",
+        "titulo": "sudadera con capucha",
+        "imagen": "./img/sudaderas/sudadera3.jpg",
+        "categorias": {
+            "nombre": "Sudadera",
+            "id": "sudaderas"
+        },
+        "precio": "120.000",
+        "precioMos": 120000
+    },
+    {
+        "id": "Sudadera-04",
+        "titulo": "Sudadera con capucha",
+        "imagen": "./img/sudaderas/sudadera4.jpg",
+        "categorias": {
+            "nombre": "Sudadera",
+            "id": "sudaderas"
+        },
+        "precio": "120.000",
+        "precioMos": 120000
+    },
+    {
+        "id": "Sudadera-05",
+        "titulo": "Sudadera con estampe mariposa",
+        "imagen": "./img/sudaderas/sudadera5.jpg",
+        "categorias": {
+            "nombre": "Sudadera",
+            "id": "sudaderas"
+        },
+        "precio": "130.000",
+        "precioMos": 130000
+    },
+    
+    {
+        "id": "Moleton-01",
+        "titulo": "Moleton unicolor",
+        "imagen": "./img/moletones/moleton1.jpg",
+        "categorias": {
+            "nombre": "Moleton",
+            "id": "moletones"
+        },
+        "precio": "90.000",
+        "precioMos": 90000
+    },
+    {
+        "id": "Moleton-02",
+        "titulo": "Moleton con diseño",
+        "imagen": "./img/moletones/moleton2.jpg",
+        "categorias": {
+            "nombre": "Moleton",
+            "id": "moletones"
+        },
+        "precio": "90.000",
+        "precioMos": 90000
+    },
+    {
+        "id": "Moleton-03",
+        "titulo": "Moleton manga abullonada",
+        "imagen": "./img/moletones/moleton3.jpg",
+        "categorias": {
+            "nombre": "Moleton",
+            "id": "moletones"
+        },
+        "precio": "130.000",
+        "precioMos": 130000
+    }
+]
